@@ -23,6 +23,7 @@
     "@vuepress/theme-default": "^2.0.0-beta.53",
     "@vuepress/utils": "^2.0.0-beta.53",
     "vite": "~3.2.2",
+    "pnpm": "^7.16.1"
     "@vuepress/client": "^2.0.0-beta.53"
   }
 }
