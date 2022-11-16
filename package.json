@@ -1,0 +1,28 @@
+{
+  "name": "walkthrough.beruanglaut.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nya1998 <ryn.nya1998@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.53",
+    "@vuepress/bundler-webpack": "^2.0.0-beta.53",
+    "@vuepress/bundler-vite": "^2.0.0-beta.53",
+    "@vuepress/cli": "^2.0.0-beta.53",
+    "@vuepress/plugin-docsearch": "^2.0.0-beta.53",
+    "@vuepress/plugin-google-analytics": "^2.0.0-beta.53",
+    "@vuepress/plugin-register-components": "^2.0.0-beta.53",
+    "@vuepress/plugin-shiki": "^2.0.0-beta.53",
+    "@vuepress/theme-default": "^2.0.0-beta.53",
+    "@vuepress/utils": "^2.0.0-beta.53",
+    "vite": "~3.2.2",
+    "@vuepress/client": "^2.0.0-beta.53"
+  }
+}
